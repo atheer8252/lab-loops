@@ -1,4 +1,4 @@
-﻿while True:
+while True:
     user_input = input("Please enter a number: ")
 
     # Check if the input is a number
